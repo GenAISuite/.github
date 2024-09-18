@@ -1,4 +1,4 @@
-# Prompt Hub
+# GenAiSuite
 
 ## Project Objective
 
